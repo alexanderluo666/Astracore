@@ -87,6 +87,12 @@ fn main() {
 
     let gravity_force = normalized * force_strength;
 
-    println!("{:#?}", body_a);
-    println!("{:#?}", body_b);
+    println!("{:#?}",G);
+    println!("{:#?}",body_a);
+    println!("{:#?}",body_b);
+    println!("{:#?}",direction);
+    println!("{:#?}",distance);
+    println!("{:#?}",normalized);
+    println!("{:#?}",force_strength);
+    println!("{:#?}",gravity_force);
 }
