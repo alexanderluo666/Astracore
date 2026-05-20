@@ -8,7 +8,7 @@
 ```bash
 cargo run
 ```
-+ Alternatively run from source code(replace / with \ if on Windows):
++ Alternatively run from binary after compiling (replace / with \ if on Windows):
 ```bash
 ./target/debug/astracore
 ```
