@@ -4,27 +4,23 @@
 # Using the simulator
 + Make fure that you are in the Astracore folder.
 + Make sure you have cargo and Rust if you want to build the game from source code.
-+ Running and compiling the lastest version from source code:
++ Run and compile binary from source code:
 ```bash
 cargo run
 ```
-+ Run binary after compiling:
++ Run binary:
 ```bash
 ./target/debug/astracore
 ```
-+ Run binary after compiling on Windows:
-```powershell
-.\target\debug\astracore
-```
-+ Clean builds:
++ Clean binary:
 ```bash
 cargo clean
 ```
-+ Build without running:
++ Build binary from source code:
 ```bash
 cargo build
 ```
-+ Check source code for errors(when edited by you, no need if cloned from my repo):
++ Check source code:
 ```bash
 cargo check
 ```
