@@ -8,9 +8,13 @@
 ```bash
 cargo run
 ```
-+ Alternatively run from binary after compiling (replace / with \ if on Windows):
++ Run binary after compiling:
 ```bash
 ./target/debug/astracore
+```
++ Run binary after compiling on Windows:
+```powershell
+.\target\debug\astracore
 ```
 + Clean builds:
 ```bash
