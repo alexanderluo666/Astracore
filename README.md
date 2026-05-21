@@ -3,7 +3,7 @@
 + A space simulator with many features.
 ## Using the simulator
 + Make sure that you are in the Astracore folder.
-+ Make sure you have cargo and Rust if you want to build the game from source code.
++ Make sure that you have cargo and Rust if you want to build the game from source code.
 + Run and compile binary from source code:
 ```bash
 cargo run
